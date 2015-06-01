@@ -10,8 +10,7 @@ namespace AspNet.Solutions.LinqExtensionConsole
     {
         static void Main(string[] args)
         {
-
-            var list = new List<string>()
+            var list = new List<string>
             {
                 "demo1",
                 "demo2",
